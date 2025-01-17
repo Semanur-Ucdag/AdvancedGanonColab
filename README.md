@@ -37,7 +37,7 @@ wandb
 To install all dependencies, run:
 
 bash
-Kodu kopyala
+
 pip install torch torchvision tqdm matplotlib numpy wandb
 Dataset
 The project uses the CelebA Dataset, a large-scale face attributes dataset with over 200,000 celebrity images.
@@ -86,7 +86,7 @@ Stable Training: Thanks to WGAN-GP, training avoids typical GAN pitfalls like mo
 Example of generated images:
 
 python
-Kodu kopyala
+
 noise = gen_noise(8, z_dim, device=device)
 fake_images = gen(noise)
 show(fake_images)
