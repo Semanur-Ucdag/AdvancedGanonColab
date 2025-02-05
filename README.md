@@ -8,7 +8,9 @@ Features
 Requirements
 Dataset
 Architecture
-Training
+Training 
+![GİTHUBRESULT](https://github.com/user-attachments/assets/519410f6-1e2c-4fa3-84bc-aa4283f181d1)
+
 Visualization
 Results
 Future Work
